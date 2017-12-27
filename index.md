@@ -1,6 +1,6 @@
 
 # Welcome to loompy!
 
-The docs have moved to [https://linnarssonlab.org/loompy](https://linnarssonlab.org/loompy)
+The docs have moved to [http://linnarssonlab.org/loompy](http://linnarssonlab.org/loompy)
 
 
